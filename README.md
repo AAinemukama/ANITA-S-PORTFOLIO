@@ -1,2 +1,2 @@
-# ANITA-S-PORTFOLIO
-DATA ANALYTICS PORTFOLIO
+# SQL DATA ANALYSIS VISUALIZATIONS
+This file contains visualizations of projects done in SQL.
